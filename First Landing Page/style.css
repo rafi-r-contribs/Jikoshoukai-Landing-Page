@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:500');
+
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+
+/*
+.pic {
+	height: 60%;
+	width: 40%;
+	margin:auto;
+	background: url("img/saiful.jpg") no-repeat 20% 20%;
+	background-size: cover;
+	display: table;
+	top: 0;
+
+}
+
+*/
+
+.intro .image {
+	top: 0;
+	left: 0;
+}
+
+
+.intro {
+	height: 100%;
+	width: 100%;
+	margin:auto;
+	background: url("img/mount fuji.jpg") no-repeat 20% 20%;
+	background-size: cover;
+	display: table;
+	top: 0;
+
+}
+
+.intro .inner {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	padding-bottom: 10%;
+}
+
+.light_description {
+	max-width: 500px;
+	margin: auto;
+	color: #f9f3f4;
+	padding: 20px;
+}
+
+.content h1 {
+	font-family: 'Open Sans', sans-srif;
+	color: #f9f3f4;
+	font-size: 400%;
+	text-shadow: 5px 5px #098fa8;
+	padding-top: 5px;
+
+}
+
+.btn {
+	font-size: 150%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	color: #f9f3f4;
+	border: 2px solid #098fa8;
+	padding: 10px 20px;
+}
+
+body {
+	background-color: lightblue;
+}
+
+
+.text {
+	text-align: left;
+	margin: auto;
+	
+	padding: 10px;
+	width: 60%;
+	
+}
+
+.jikoshoukai h1 {
+	text-align: center;
+}
+
+
+
+.jikoshoukai {
+	margin: auto;
+	width: 60%;
+	/*text-align: center;*/
+}
+
+#q1{
+	border: 1px;
+	border-style: solid;
+	border-color: white;
+	text-align: center;
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
